@@ -1,7 +1,7 @@
 Core ML Tutorial
 ==============================
 
-Source code on the tuttorial on how to use Core ML and machine learning models in Swift.
+Source code on the tutorial on how to use Core ML and machine learning models in Swift.
 
 Tutorial:
 
